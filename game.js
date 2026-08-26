@@ -1,7 +1,7 @@
 'use strict';
 
 /* ============================================================
-   RAINBOW UNICORN — hex-grid duel vs the Shadow Unicorn
+   UNIWAX — hex-grid duel vs the Shadow Unicorn
    Depends on: audio.js (ps, startMus, stopMus, toggleMute, mt2)
    MADE BY KONDOU KEN LUMIN FOR JS13KGAMES
    ============================================================ */
