@@ -1,4 +1,8 @@
 ---
+genres:
+  - strategy
+  - puzzle
+  - adventure
 directors_cut: https://quruifps.xyz/jskk/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
